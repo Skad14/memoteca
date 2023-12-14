@@ -27,5 +27,4 @@ export class PensamentoComponent implements OnInit {
       return 'pensamento-p'
     }
   }
-
 }
