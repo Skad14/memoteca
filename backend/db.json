@@ -1,5 +1,5 @@
 {
-  "pensamentos" : [
+  "pensamentos": [
     {
       "id": 1,
       "conteudo": "Que bom que você veio",
@@ -17,6 +17,18 @@
       "conteudo": "Angular é o melhor",
       "autoria": "Rafael",
       "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Testando essa bagaça",
+      "autoria": "Eu mesmo",
+      "modelo": "modelo1",
+      "id": 4
+    },
+    {
+      "conteudo": "testando 123, testando 123",
+      "autoria": "Radio Lou",
+      "modelo": "modelo3",
+      "id": 5
     }
   ]
 }
