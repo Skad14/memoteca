@@ -28,10 +28,9 @@ export class CriarPensamentoComponent implements OnInit {
     this.service.criar(this.pensamento).subscribe(() => {
       this.router.navigate(['/listarPensamento'])
     })
-
   }
 
-  cancelarPensamento() {
+  cancelar() {
     this.router.navigate(['/listarPensamento'])
   }
 }
